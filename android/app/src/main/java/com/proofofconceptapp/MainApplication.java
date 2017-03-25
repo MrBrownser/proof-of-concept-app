@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.proofofconceptapp;
 
 import android.app.Application;
 
